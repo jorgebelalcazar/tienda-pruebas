@@ -1,0 +1,17 @@
+[
+  {
+    "model": "inventario.producto",
+    "pk": 1,
+    "fields": { "nombre": "Teclado mecánico", "precio": "85000.00", "stock": 10 }
+  },
+  {
+    "model": "inventario.producto",
+    "pk": 2,
+    "fields": { "nombre": "Mouse inalámbrico", "precio": "45000.00", "stock": 3 }
+  },
+  {
+    "model": "inventario.producto",
+    "pk": 3,
+    "fields": { "nombre": "Monitor 24 pulgadas", "precio": "650000.00", "stock": 0 }
+  }
+]
